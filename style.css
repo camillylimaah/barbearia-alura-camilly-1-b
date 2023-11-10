@@ -11,3 +11,8 @@ text-align: center;}
 .destaque{color: red;}
 
 .Beneficio{text-align: center;}
+
+.imagem.beneficio{width: 50%;}
+
+.lista{display: inline-block;
+vertical-align: top;}
